@@ -1,2 +1,1 @@
-# example-repository
-my first repository
+Sql commands for practice 
